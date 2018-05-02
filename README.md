@@ -1,4 +1,4 @@
-Kaitlin, Anda, Funke
+Kaitlin, Anda, Funke html, css project:
 
 
   To view this project:
