@@ -5,6 +5,6 @@ Kaitlin, Anda, Funke html, css project:
   
       Click "Clone / Download this folder" and download the folder.
       
-   Open the index.html file.
+   Open either the index.html file, or the homepage.html file.
    
    Naviagte through the site.
