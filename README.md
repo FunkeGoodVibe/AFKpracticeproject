@@ -7,4 +7,4 @@ Kaitlin, Anda, Funke html, css project:
       
    Open either the index.html file, or the homepage.html file.
    
-   Naviagte through the site.
+   Navigate through the site.
